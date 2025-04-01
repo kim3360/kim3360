@@ -21,7 +21,7 @@
 
 ## 🎖️ Project
 
-<table border="1" cellspacing="0" cellpadding="6">
+<table>
   <thead>
     <tr>
       <th>PERIOD</th>
