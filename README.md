@@ -15,12 +15,12 @@
     </div>
 
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=kim3360&layout=compact&cache_seconds=1
+
+
+
+![most_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kim3360&layout=compact&cache_seconds=1)
 
 <!--
-![most_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kim3360&layout=compact)
-
-
 **kim3360/kim3360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
