@@ -21,7 +21,7 @@
 
 <h2>🏅 Project</h2>
 
-<table border="1" width="100%" cellspacing="0" cellpadding="8">
+<table border="1" width="100%">
   <thead>
     <tr>
       <th width="20%">PERIOD</th>
