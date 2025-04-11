@@ -43,6 +43,9 @@
   </tbody>
 </table>
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="800" height="auto" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="400" height="auto" />
 </p>
+
+
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
