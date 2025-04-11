@@ -20,27 +20,6 @@
 <br>
 
 <h2>🏅 Project</h2>
-<table style="width: 100%;">
-  <thead>
-    <tr>
-      <th style="width: 20%;">PERIOD</th>
-      <th style="width: 30%;">TITLE</th>
-      <th style="width: 50%;">SUBJECT</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>2024.05&nbsp;-&nbsp;2024.11</td>
-      <td>🥇 교내 경진대회 (최우수상)</td>
-      <td>여행 코스 추천 웹 사이트</td>
-    </tr>
-    <tr>
-      <td>2025.03&nbsp;-&nbsp;2025.03</td>
-      <td>🥇 단국대학교 해커톤 (대상)</td>
-      <td>스크린샷 정리 자동화 OpenAI를 활용 요약 + 카테고리 분류 + 폴더 저장 서비스</td>
-    </tr>
-  </tbody>
-</table>
 
 <table  width="100%">
   <thead>
