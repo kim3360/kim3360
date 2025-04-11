@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=060606&text=TaeWoo'Kim&section=header&reversal=false&textBg=false&fontAlign=67&fontAlignY=32&desc=FrontEnd%20Developer&descAlign=80&descAlignY=49)
+![header]([https://capsule-render.vercel.app/api?type=waving&height=250&color=060606&text=TaeWoo'Kim&section=header&reversal=false&textBg=false&fontAlign=67&fontAlignY=32&desc=FrontEnd%20Developer&descAlign=80&descAlignY=49](https://capsule-render.vercel.app/api?type=waving&height=250&color=060606&text=TaeWoo'Kim&section=header&reversal=false&textBg=false&fontColor=FFB700&fontAlign=67&fontAlignY=32&desc=FrontEnd%20Developer&descAlign=80&descAlignY=49))
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
