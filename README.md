@@ -1,3 +1,5 @@
+https://capsule-render.vercel.app/api?type=waving&height=250&color=060606&text=TaeWoo'Kim&section=header&reversal=false&textBg=false&fontAlign=67&fontAlignY=32&desc=FrontEnd%20Developer&descAlign=80&descAlignY=49
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 
 <div style="text-align: left;">
