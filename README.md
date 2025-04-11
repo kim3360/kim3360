@@ -17,6 +17,10 @@
 
 ![most_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kim3360&layout=compact&cache_seconds=1)
 
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="400" height="auto" />
+</p>
+
 <br>
 
 <h2>🏅 Project</h2>
@@ -42,10 +46,4 @@
     </tr>
   </tbody>
 </table>
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="400" height="auto" />
-</p>
 
-
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
