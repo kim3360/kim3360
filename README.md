@@ -44,6 +44,6 @@
 </table>
 
 <p>
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="800" height="auto" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="850" height="auto" />
 </p>
 
