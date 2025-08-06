@@ -54,9 +54,10 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="850" height="auto" />
 </p>
 
-
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kim3360/kim3360/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kim3360/kim3360/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kim3360/kim3360/output/pacman-contribution-graph.svg">
 </picture>
+-->
