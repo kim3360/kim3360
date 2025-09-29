@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=060606&text=TaeWoo'Kim&section=header&reversal=false&textBg=false&fontColor=FFB700&fontAlign=67&fontAlignY=32&desc=FrontEnd%20Developer&descAlign=80&descAlignY=49)
 
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
     <div style="margin: ; text-align: left;" "text-align: left;"> 
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -22,37 +22,34 @@
     </div>
     <br/>
 
-![most_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kim3360&layout=compact&cache_seconds=1)
+
+## Activities
+- **IT 연합 동아리 University MakeUs Challenge 9th Web Frontend** (2025.09 ~ ing)
+- **동양미래대학교 컴퓨터공학부 전공동아리 다솜 총무** (2025.03 ~ ing)
+- **성일정보고등학교 스마트웹콘텐츠학과** (2018.03 ~ 2021.01)
+## Intern
+-  **(주)엠클라우독 모바일개발팀** (2025.07 ~ 2025.08)
+
+## Awards
+-  **🥇 단국대학교 해커톤 (대상)** :  스크린샷 정리 자동화 OpenAI를 활용 요약 + 카테고리 분류 + 폴더 저장 서비스 (2025.03 ~ 2025.03)
+-  **🥇 SW개발 교내 경진대회 (대상)** :  여행 추천 웹 사이트 (2024.05 ~ 2024.11)
+
+
+
+
+
+
+    
+![most_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kim3360&layout=compact&cache_seconds=1) [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim3360)](https://github.com/kim3360/github-readme-stats)
+
 
 <br>
 
-<h2>🏅 Project</h2>
 
-<table  width="100%">
-  <thead>
-    <tr>
-      <th width="20%">PERIOD</th>
-      <th width="30%">TITLE</th>
-      <th width="50%">SUBJECT</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>2024.05&nbsp;-&nbsp;2024.11</td>
-      <td>🥇 교내 경진대회 (최우수상)</td>
-      <td>여행 코스 추천 웹 사이트</td>
-    </tr>
-    <tr>
-      <td>2025.03&nbsp;-&nbsp;2025.03</td>
-      <td>🥇 단국대학교 해커톤 (대상)</td>
-      <td>스크린샷 정리 자동화 OpenAI를 활용 요약 + 카테고리 분류 + 폴더 저장 서비스</td>
-    </tr>
-  </tbody>
-</table>
 
-<p>
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="850" height="auto" />
-</p>
+
+
+
 
 <!--
 <picture>
