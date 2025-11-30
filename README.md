@@ -40,7 +40,8 @@
 
 
     
-![most_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kim3360&layout=compact&cache_seconds=1) [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim3360)](https://github.com/kim3360/github-readme-stats)
+<!--    ![most_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kim3360&layout=compact&cache_seconds=1) [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim3360)](https://github.com/kim3360/github-readme-stats)
+-->
 
 
 <br>
