@@ -24,9 +24,9 @@
 
 
 ## Activities
-- **IT 연합 동아리 University MakeUs Challenge 9th Web Frontend** (2025.09 ~ ing)
-- **스위프 Web Frontend 11·12기** (2025.10 ~ 2026.02)
 - **동양미래대학교 컴퓨터공학부 전공동아리 다솜 총무** (2025.03 ~ ing)
+- **IT 연합 동아리 University MakeUs Challenge 9th Web Frontend** (2025.09 ~ 2026.02)
+- **스위프 Web Frontend 11·12기** (2025.10 ~ 2026.02)
 - **성일정보고등학교 스마트웹콘텐츠학과** (2018.03 ~ 2021.01)
 ## Intern
 -  **(주)엠클라우독 모바일개발팀** (2025.07 ~ 2025.08)
